@@ -9,8 +9,6 @@ This Power BI dashboard offers an analytical overview of adverse event reports c
 
 **Adverse Event Trends:** Tracks the occurrence of adverse events over time by gender and product role, providing insights into affected demographics and product types.
 
-**Predictive Insights:** Includes a predictive model forecasting future adverse events, offering a forward-looking perspective on potential safety concerns.
-
 **Symptom Analysis:** Analyzes frequently reported symptoms and their severity, along with the correlation between symptoms and adverse outcomes.
 
 **Demographic Distribution:** Breaks down adverse events by age category and gender, highlighting the most impacted demographics.
