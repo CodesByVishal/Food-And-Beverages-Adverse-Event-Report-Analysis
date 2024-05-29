@@ -2,7 +2,7 @@
 
 # **Overview** 
 
-This Power BI dashboard offers an analytical overview of adverse event reports concerning foods, dietary supplements, and cosmetics from the FDA's Center for Food Safety and Applied Nutrition (CFSAN) Adverse Event Reporting System (CAERS) dataset. It aims to uncover patterns and trends in adverse event reporting, correlating with product roles, industry categories, and demographic data.
+This Power BI interactive dashboard offers an analytical overview of adverse event reports concerning foods, dietary supplements, and cosmetics from the FDA's Center for Food Safety and Applied Nutrition (CFSAN) Adverse Event Reporting System (CAERS) dataset. It aims to uncover patterns and trends in adverse event reporting, correlating with product roles, industry categories, and demographic data.
 
 
 # **Dashboard Highlights**
