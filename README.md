@@ -31,7 +31,7 @@ This Power BI interactive dashboard offers an analytical overview of adverse eve
 
 # **Technical Summary**
 
-**Data Transformation and Modeling:** Utilizes advanced DAX functions and Power BI's data modeling capabilities to manipulate and analyze the large dataset effectively.
+**Data Transformation and Modeling:** Utilizes advanced functions and Power BI's data modeling capabilities to manipulate and analyze the large dataset effectively.
 
 **Interactive Visualizations:** Customizable filters and slicers enable dynamic data exploration, such as product role, age bins, and industry names.
 
